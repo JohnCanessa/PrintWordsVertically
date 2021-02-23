@@ -12,7 +12,7 @@ from the source.
 If interested in the problem and my comments please visit
 the following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/02/23/print-words-vertically/
 
 Keep in mind that one of the best ways to learn is to read
 and practice.
